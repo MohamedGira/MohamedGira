@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedgira&show_icons=true&locale=en" alt="mohamedgira" /></p>
+<p><img align="center" src="https://github-readme-stats-mohamedgira09.vercel.app//api?username=mohamedgira&show_icons=true&locale=en" alt="mohamedgira" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedgira&" alt="mohamedgira" /></p>
 </br>
