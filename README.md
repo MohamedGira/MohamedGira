@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   - Machine Learning
   - Data structures & Algorithms
   - Advanced Software Design & Engineering
+  - Problem Solving
+  - Anything else :)
 
 - 🌱 I’m currently learning **Frontend Development with React.js**
 
