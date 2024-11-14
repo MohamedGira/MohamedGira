@@ -108,6 +108,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats-mohamedgira09.vercel.app//api?username=mohamedgira&show_icons=true&locale=en" alt="mohamedgira" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedgira&" alt="mohamedgira" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedgira&" alt="mohamedgira" /></p>-->
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgira&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgira" /> </p>
